@@ -1,0 +1,8 @@
+numpy
+requests
+zipfile
+io
+pandas
+matplotlib
+scikit-learn
+tensorflow
